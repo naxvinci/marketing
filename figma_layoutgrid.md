@@ -24,4 +24,5 @@
 
 - Frame을 원하는 Device 사이즈에 맞춰서( ex. Desktop) 만들고 Design > Layout Grid > Grid를 Columns로 바꾼다
 
-![image-20201119172003311](C:%5CUsers%5CChan%5Cmarketing%5Cfigma_layoutgrid.assets%5Cimage-20201119172003311.png)
+![image-20201119172341392](figma_layoutgrid.assets/image-20201119172341392.png)
+
