@@ -232,3 +232,9 @@
 --> 즉 거시전환수와 미시전환수를 먼저 파악해야 함. 
 
 수강신청과 체험신청 파악!
+
+
+
+https://analytics.google.com/analytics/academy/course/7/unit/1/lesson/5
+
+참고해서 측정 계획 수립하기
