@@ -6,9 +6,11 @@ CRM 마케팅 - 개인화
 
 10회 이상 구매자는 진성 고객
 
-2회 
+2회  
 
-![image-20201126141703165](C:\Users\NOWNEY\AppData\Roaming\Typora\typora-user-images\image-20201126141703165.png)
+![image-20201126182418373](channeltalkedu_CRM.assets/image-20201126182418373.png)
+
+
 
 10회 - 선호하는 상품에 대한 낮은 할인
 
@@ -27,7 +29,7 @@ CRM 마케팅 - 개인화
 
 
 
-![image-20201126141932880](C:\Users\NOWNEY\AppData\Roaming\Typora\typora-user-images\image-20201126141932880.png)
+![image-20201126182404704](channeltalkedu_CRM.assets/image-20201126182404704.png)
 
 - 횟수, 기간
 - 기간 안남았는데 자동 연장
@@ -70,9 +72,9 @@ CRM 마케팅은 소화제다
 
 metric을 본다는 것은 현재 우리 서비스의 문제를 파악하는 것
 
+![image-20201126182352687](channeltalkedu_CRM.assets/image-20201126182352687.png)
 
 
-![image-20201126142719926](C:\Users\NOWNEY\AppData\Roaming\Typora\typora-user-images\image-20201126142719926.png)
 
 유저유입
 
@@ -84,7 +86,9 @@ metric을 본다는 것은 현재 우리 서비스의 문제를 파악하는 것
 
 == 매출
 
-![image-20201126142806646](C:\Users\NOWNEY\AppData\Roaming\Typora\typora-user-images\image-20201126142806646.png)
+![image-20201126182335799](channeltalkedu_CRM.assets/image-20201126182335799.png)
+
+
 
 목표(KPI)는 선행지표들을 올리면 알아서 상승하게 되어있다
 
@@ -96,7 +100,9 @@ DAU MAU
 
 유저유입
 
-![image-20201126142933050](C:\Users\NOWNEY\AppData\Roaming\Typora\typora-user-images\image-20201126142933050.png)
+![image-20201126182323916](channeltalkedu_CRM.assets/image-20201126182323916.png)
+
+
 
 하나하나에 대한 메트릭 세분화
 
@@ -110,7 +116,9 @@ CRM은 결국 이탈하지 않게끔. 유저를 다시 오게끔 하는 것에 �
 
 고객 CS 채널
 
-![image-20201126143047314](C:\Users\NOWNEY\AppData\Roaming\Typora\typora-user-images\image-20201126143047314.png)
+![image-20201126182311215](channeltalkedu_CRM.assets/image-20201126182311215.png)
+
+
 
 오가닉 플랫폼(카카오)-> 입으로 재유입하고 싶다
 
@@ -136,13 +144,17 @@ SPU 유저??
 
 == 오가닉유입
 
-![image-20201126143254859](C:\Users\NOWNEY\AppData\Roaming\Typora\typora-user-images\image-20201126143254859.png)
+![image-20201126182255555](channeltalkedu_CRM.assets/image-20201126182255555.png)
+
+
 
 
 
 쿠폰에 대한 알림톡
 
-![image-20201126143452303](C:\Users\NOWNEY\AppData\Roaming\Typora\typora-user-images\image-20201126143452303.png)
+![image-20201126182240530](channeltalkedu_CRM.assets/image-20201126182240530.png)
+
+
 
 검색을 통해 쿠폰페이지로 랜딩되면 구매율이 높더라
 
@@ -178,13 +190,17 @@ CRM은 고객 관리인데 이런 부분들은 트래킹은 안되겠지만 돌�
 
 구매데이터 기반으로 추천, 등
 
-![image-20201126143915492](C:\Users\NOWNEY\AppData\Roaming\Typora\typora-user-images\image-20201126143915492.png)
+![image-20201126182219035](channeltalkedu_CRM.assets/image-20201126182219035.png)
+
+
 
 검색을 통해 구매했을 때 높은 구매율
 
 원하는 과정을 명확하게 검색했을 때 상품이 노출되게 하는 페이지
 
-![image-20201126144047676](C:\Users\NOWNEY\AppData\Roaming\Typora\typora-user-images\image-20201126144047676.png)
+![image-20201126182135938](channeltalkedu_CRM.assets/image-20201126182135938.png)
+
+
 
 리뷰가 중요하더라
 
