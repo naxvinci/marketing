@@ -211,9 +211,23 @@
 - 액션 클릭 시 연결된 라벨 표시
 - **이벤트를 통해 외부 링크 클릭으로 사이트 떠나는 것도 추적 가능**
   - 채널톡 추적 가능? 
-  - '외부 링크' 카테고리, '채널톡' 액션, '(해당 라벨명)' 라벨을 이용해 이 버튼에 대한 이벤트 추적을 설정할 수 있음. 
+  - '외부 링크' 카테고리, '채널톡' 액션, '(해당 라벨명 or {{clicked_page}} )' 라벨을 이용해 이 버튼에 대한 이벤트 추적을 설정할 수 있음. 
   - 채널톡 버튼을 어디에서 몇 번 클릭했는지 알 수 있겠지
 
 
+
+## [계산된 측정항목]
+
+- calculated metrics
+- pageviews per user 와 같은 계산된 수치 측정하고 싶을 때 만든다
+- ex) {{Android Pageviews}} / {{Users}}
+
+
+
+## [향상된 전자상거래]
+
+- enhanced ecommerce
+- 관리(admin)> view > Ecommerce Set-up > Enable Ecommerce(on) > Enhanced Ecommerce Settings(on)
+- Data를 보려면 자바스크립트 코드 추가해야 함
 
  
